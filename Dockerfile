@@ -51,7 +51,7 @@ RUN pip install --upgrade pip && \
     scikit-learn \
     gpustat \
     jupyterlab \
-    ipykernel \
+    ipykernel ipywidgets \
     datasets \
     peft \
     trl \
